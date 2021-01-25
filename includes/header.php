@@ -17,7 +17,7 @@
    
       <nav class="navbar navbar-dark bg-dark">
         <div class="container-fluid">
-          <a class="navbar-brand" href="/"><i class="bi bi-handbag-fill m-3"></i>BOLSIPLAST</a>
+          <a class="navbar-brand" href="/php_mysql_store"><i class="bi bi-handbag-fill m-3"></i>BOLSIPLAST</a>
           <a class="nav-link" href="#total">Totales</a>
           <a class="nav-link" href="#htype">Por Tipo</a>
           <a class="nav-link" href="#hsize">Por Tamaño</a>
