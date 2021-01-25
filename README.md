@@ -1,6 +1,20 @@
 # PHP Y MYSQL INVENTARIO DE BOLSAS
 Aplicacion creada a partir de una asignacion de la materia Laboratorio de Datos de la universidad.
+# Asignación/Problema 
+Realice un formulario que permita llevar el inventario de una empresa distribuidora de bolsas de papel y plástico.
 
+Se debe alimentar con los siguientes datos:
+- Tipo de Bolsa. PLÁSTICO - PAPEL.
+- Tamaño de la Bolsa. En Litros.
+- Cantidad Entrante. POR UNIDAD.
+- Precio por docena.
+
+Se debe generar un reporte que muestre:
+
+- Cantidad de Bolsas totales.
+- Cantidad de bolsas por tipo. 
+- Cantidad de bolsas por tamaño.
+- Valor total del inventario.
 # Página principal
 ![](docs/principal.png)
 # Página secundaria
