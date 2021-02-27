@@ -48,17 +48,13 @@ Para tener la app activa solo tienes que agregar el carpeta del proyecto a la ca
 
 # Para tener activa la app
 1. Clonar repositorio con git, GitHub CLI o descargar la carpeta comprimida.
-~~~ 
-# cmd 
-~~~
-~~~
- cd %USERPROFILE%\Desktop 
-~~~ 
-~~~
-git clone https://github.com/gabrielba15/php_mysql_store.git 
-~~~ 
 2. Mover o copiar la carpeta clonada a la carpeta htdocs de xampp
 3. Crea la base de datos si no la haz creado aun (php_mysql_contacts.sql).
 4. Cambia los valores de config.php
 5. Ve a localhost/php_mysql_store en tu navegador.
 6. Listo, happy hacking crack :D
+
+```bash   
+git clone https://github.com/gabrielba15/php_mysql_contacts_app.git 
+cd php_mysql_contacts_app
+``` 
